@@ -7,3 +7,5 @@ Created a repository locally.
 Now changing the files locally.
 
 Now changing online and trying to get'em locally.
+
+Learning to merge the branches.
