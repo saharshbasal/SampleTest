@@ -11,3 +11,5 @@ Now changing online and trying to get'em locally.
 I don't know how to merge.
 
 Learning to merge the branches.
+
+Changes can occur while you do not access the branch and somebody else is working on.
